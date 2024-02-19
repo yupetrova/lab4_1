@@ -5,3 +5,5 @@ __pycache__/
 downloads/
 lib/
 lib64/
+__pypackages__/
+
